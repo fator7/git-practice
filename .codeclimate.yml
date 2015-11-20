@@ -1,0 +1,8 @@
+engines:
+  eslint:
+    enabled: true
+  csslint:
+    enabled: true
+exclude_paths:
+  - css/bootstrap*
+  - js/vendor/**/*
